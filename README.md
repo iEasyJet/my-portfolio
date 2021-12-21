@@ -31,6 +31,13 @@
   * Файловая структура по БЭМ/Nested;
   * Работа с Figma;
 
+### `Статус проекта:` <kbd>Совершенствуется</kbd>
+- [ ] Портирование данного проекта на React:
+    - [ ] Портирование разметки;
+    - [ ] Портирование стилей;
+    - [ ] Добавление императивных обработчиков;
+
+
 [Проект](https://ieasyjet.github.io/mesto/)
 
 [Репозиторий](https://github.com/iEasyJet/mesto)
@@ -50,6 +57,8 @@
   * БЭМ;
   * Файловая структура по БЭМ/Nested;
   * Работа с Figma;
+
+### `Статус проекта:` <kbd>Завершен</kbd>
 
 [Проект](https://ieasyjet.github.io/Dia/)
 
@@ -73,9 +82,11 @@
   * Файловая структура по БЭМ/Nested;
   * Работа с Figma;
 
-[Проект](https://ieasyjet.github.io/second-project/)
+### `Статус проекта:` <kbd>Завершен</kbd>
 
-[Репозиторий](https://github.com/iEasyJet/second-project)
+[Проект](https://ieasyjet.github.io/russian-travel/)
+
+[Репозиторий](https://github.com/iEasyJet/russian-travel)
 
 # #1 "Научиться учиться" <kbd>Яндекс.Практикум</kbd>
 
@@ -90,6 +101,8 @@
   * YouTube Player API;
   * БЭМ;
   * Файловая структура по БЭМ/Nested;
+
+### `Статус проекта:` <kbd>Завершен</kbd>
 
 [Проект](https://ieasyjet.github.io/first-project/)
 
