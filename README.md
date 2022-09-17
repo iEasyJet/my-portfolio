@@ -58,6 +58,9 @@
 [API с картинками](https://picsum.photos)
 
 [Ссылка на GitHub Pages](https://ieasyjet.github.io/cascade-of-picture/)
+
+### Работает только через VPN
+
 [Ссылка на репозиторий](https://github.com/iEasyJet/cascade-of-picture/tree/main)
 
 # #5 "Дипломная работа (Frontend + Backend)" <kbd>Яндекс.Практикум</kbd>
@@ -236,4 +239,3 @@
 [Проект](https://ieasyjet.github.io/first-project/)
 
 [Репозиторий](https://github.com/iEasyJet/first-project)
-
