@@ -1,4 +1,40 @@
-# #7 # Веб-приложение с рандомными картинками <kbd>Самостоятельная работа</kbd>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=650&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8D%D1%82%D0%BE+%D0%BC%D0%BE%D1%91+%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE!)](https://git.io/typing-svg)
+
+```sh
+
+
+```
+
+# #7 Aim Training
+
+<kbd>Самостоятельная работа</kbd>
+
+## Описание проекта:
+
+Игра "Aim-Training" с настройкой времени игры, цвета мишеней и их размеров.
+Цель игры заключается в выбивании наибольшего количества мишеней за определенное время
+
+## Технологии и инструменты, которые использовались в работе:
+
+- HTML;
+- CSS(SCSS);
+- React.JS
+- БЭМ;
+
+### `Статус проекта:` <kbd>Готов</kbd>
+
+[Репозиторий](https://github.com/iEasyJet/aim-training)
+
+[gh-pages](https://ieasyjet.github.io/aim-training/)
+
+```sh
+
+
+```
+
+# #6 Веб-приложение с рандомными картинками
+
+<kbd>Самостоятельная работа</kbd>
 
 ## Описание проекта:
 
@@ -28,10 +64,18 @@
 
 [API с собаками](https://random.dog)
 
-[Ссылка на репозиторий](https://github.com/iEasyJet/random-animal)
-[Ссылка на GitHub Pages](https://ieasyjet.github.io/random-animal/)
+[Репозиторий](https://github.com/iEasyJet/random-animal)
 
-# #6 # Веб-приложение с каскадными картинками <kbd>Самостоятельная работа</kbd>
+[gh-pages](https://ieasyjet.github.io/random-animal/)
+
+```sh
+
+
+```
+
+# #5 Веб-приложение с каскадными картинками
+
+<kbd>Самостоятельная работа</kbd>
 
 ## Описание проекта:
 
@@ -57,13 +101,18 @@
 
 [API с картинками](https://picsum.photos)
 
-[Ссылка на GitHub Pages](https://ieasyjet.github.io/cascade-of-picture/)
+[gh-pages](https://ieasyjet.github.io/cascade-of-picture/)
 
-### Работает только через VPN
+[Репозиторий](https://github.com/iEasyJet/cascade-of-picture/tree/main)
 
-[Ссылка на репозиторий](https://github.com/iEasyJet/cascade-of-picture/tree/main)
+```sh
 
-# #5 "Дипломная работа (Frontend + Backend)" <kbd>Яндекс.Практикум</kbd>
+
+```
+
+# #4 Дипломная работа (Frontend + Backend)
+
+<kbd>Яндекс.Практикум</kbd>
 
 ## Описание проекта:
 
@@ -108,10 +157,21 @@
 ### `Статус проекта:` <kbd>Сдан</kbd>
 
 [Макет](https://www.figma.com/file/6BQIso4QhIQfrlJ4IIH2zt/Макет-диплома?node-id=891%3A3857)
+
 [Репозиторий Frontend](https://github.com/iEasyJet/movies-explorer-frontend)
+
 [Репозиторий Backend](https://github.com/iEasyJet/movies-explorer-api)
 
-# #4 "Mesto на React + BackEnd" <kbd>Яндекс.Практикум</kbd>
+[gh-pages](https://ieasyjet.github.io/movies-explorer-frontend/#/)
+
+```sh
+
+
+```
+
+# #3 Mesto на React + BackEnd
+
+<kbd>Яндекс.Практикум</kbd>
 
 ## Описание проекта:
 
@@ -145,51 +205,27 @@
 - CSS;
 - Адаптивная верстка;
 - React.JS
-- Открытое Api Яндекса;
 - БЭМ;
 - Файловая структура по БЭМ/Nested;
 - Работа с Figma;
 - MongoDB;
 - Express.js;
+- BackEnd развернут на сервере
 
 ### `Статус проекта:` <kbd>Завершен</kbd>
+
+[gh-pages](https://ieasyjet.github.io/mesto-react-pages/#/sign-up)
 
 [Репозиторий](https://github.com/iEasyJet/react-mesto-api-full)
 
-# #3 "Mesto на React" <kbd>Яндекс.Практикум</kbd>
+```sh
 
-## Описание проекта:
 
-Интерактивный одностраничный сайт. Работа сделана на основании макета [Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4) + [Дополнение](https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript.-Sprint-9?node-id=0%3A1) + [Дополнение](https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/JavaScript.-Sprint-12?node-id=0%3A1)
+```
 
-## Основной функционал:
+# #2 Путешествие по России
 
-- На данном сайте можно изменять инофрмацию пользователя: `Аватар`, `Имя`, `О себе`;
-- Добавлять и удалять карточки;
-- Ставить и удалять лайки;
-- Разворачивать картинку;
-- Загрузка всей информации с сервера;
-- Все изменения на странице происходят и на сервере;
-
-## Технологии и инструменты, которые использовались в работе:
-
-- HTML;
-- CSS;
-  - FlexBox;
-- Адаптивная верстка;
-- React.JS
-- Открытое Api Яндекса;
-- БЭМ;
-- Файловая структура по БЭМ/Nested;
-- Работа с Figma;
-
-### `Статус проекта:` <kbd>Завершен</kbd>
-
-[GitHub Pages](https://ieasyjet.github.io/react-mesto-auth/#/)
-
-[Репозиторий](https://github.com/iEasyJet/react-mesto-auth)
-
-# #2 "Путешествие по России" <kbd>Яндекс.Практикум</kbd>
+<kbd>Яндекс.Практикум</kbd>
 
 ## Описание проекта:
 
@@ -214,11 +250,18 @@
 
 ### `Статус проекта:` <kbd>Завершен</kbd>
 
-[Проект](https://ieasyjet.github.io/russian-travel/)
+[gh-pages](https://ieasyjet.github.io/russian-travel/)
 
 [Репозиторий](https://github.com/iEasyJet/russian-travel)
 
-# #1 "Научиться учиться" <kbd>Яндекс.Практикум</kbd>
+```sh
+
+
+```
+
+# #1 Научиться учиться
+
+<kbd>Яндекс.Практикум</kbd>
 
 ## Описание проекта:
 
@@ -236,6 +279,11 @@
 
 ### `Статус проекта:` <kbd>Завершен</kbd>
 
-[Проект](https://ieasyjet.github.io/first-project/)
+[gh-pages](https://ieasyjet.github.io/first-project/)
 
 [Репозиторий](https://github.com/iEasyJet/first-project)
+
+```sh
+
+
+```
