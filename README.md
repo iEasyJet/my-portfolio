@@ -5,6 +5,19 @@
 
 ```
 
+# Другие проекты
+
+## Цветовая линия
+
+[Репозиторий](https://github.com/iEasyJet/colors-bar/tree/main)
+
+[gh-pages](https://ieasyjet.github.io/colors-bar/)
+
+```sh
+
+
+```
+
 # #7 Aim Training
 
 <kbd>Самостоятельная работа</kbd>
