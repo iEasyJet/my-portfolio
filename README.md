@@ -177,6 +177,8 @@
 
 [gh-pages](https://ieasyjet.github.io/movies-explorer-frontend/#/)
 
+[Развернутый фронт](https://easyjet.nomoredomainsrocks.ru)
+
 ```sh
 
 
