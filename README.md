@@ -115,7 +115,7 @@
 
 ```
 
-# #5 Веб-приложение с каскадными картинками
+# #5 Веб-приложение с каскадными картинками (Ресурс с картинками заблокирован)
 
 <kbd>Самостоятельная работа</kbd>
 
@@ -203,8 +203,6 @@
 [Репозиторий Frontend](https://github.com/iEasyJet/movies-explorer-frontend)
 
 [Репозиторий Backend](https://github.com/iEasyJet/movies-explorer-api)
-
-[gh-pages](https://ieasyjet.github.io/movies-explorer-frontend/#/)
 
 [Развернутый фронт](https://easyjet.nomoredomainsrocks.ru)
 
