@@ -38,9 +38,9 @@
 - БЭМ;
 - BackEnd развернут на сервере;
 
-[Репозиторий]([https://github.com/iEasyJet/todoapp/tree/main])
+[Репозиторий](https://github.com/iEasyJet/todoapp/tree/main)
 
-[gh-pages]([https://ieasyjet.github.io/todoapp/])
+[gh-pages](https://ieasyjet.github.io/todoapp/)
 
 ```sh
 
