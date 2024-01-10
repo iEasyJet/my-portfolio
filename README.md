@@ -18,6 +18,35 @@
 
 ```
 
+# #8 Todo App
+
+<kbd>Тестовое задание для одной из вакансий</kbd>
+
+## Описание проекта:
+
+Интерактивный одностраничный сайт. Работа сделана на основании импровизационного макета из головы
+
+## Технологии и инструменты, которые использовались в работе:
+
+- HTML;
+- CSS;
+  - FlexBox;
+- Адаптивная верстка;
+- React.JS
+- Сборка кода с помощью Webpack'a;
+- Подключение сайта к серверу;
+- БЭМ;
+- BackEnd развернут на сервере;
+
+[Репозиторий]([https://github.com/iEasyJet/aim-training](https://github.com/iEasyJet/todoapp/tree/main))
+
+[gh-pages]([https://ieasyjet.github.io/aim-training/](https://ieasyjet.github.io/todoapp/))
+
+```sh
+
+
+```
+
 # #7 Aim Training
 
 <kbd>Самостоятельная работа</kbd>
