@@ -9,9 +9,9 @@
 
 ## Цветовая линия
 
-[Репозиторий](https://github.com/iEasyJet/colors-bar/tree/main)
+[Репозиторий]([https://github.com/iEasyJet/colors-bar/tree/main])
 
-[gh-pages](https://ieasyjet.github.io/colors-bar/)
+[gh-pages]([https://ieasyjet.github.io/colors-bar/])
 
 ```sh
 
